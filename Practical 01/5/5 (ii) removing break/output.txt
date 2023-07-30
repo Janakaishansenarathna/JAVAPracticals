@@ -1,0 +1,4 @@
+Excellent!
+You passed
+Better try again
+Your grade is A

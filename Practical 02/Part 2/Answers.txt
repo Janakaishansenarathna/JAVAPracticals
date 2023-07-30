@@ -1,0 +1,23 @@
+Which of these keywords is used to refer to the member of the base class from a subclass?
+Answer: 
+b) super
+
+The modifier which specifies that the member can only be accessed in its own class is
+Answer: 
+b) private
+
+Which of these is a mechanism for naming and visibility control of a class and its content?
+Answer: 
+b) Packages
+
+Which of the following is the correct way of importing an entire package ‘pkg’?
+Answer: 
+c) import pkg.*
+
+Which of these methods of class String is used to extract a single character from a String object?
+Answer: 
+c) charAt()
+
+Which of these methods of class String is used to obtain the length of the String object?
+Answer: 
+c) length()
